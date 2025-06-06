@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+
+@layer base {
+ body {
+    @apply mx-auto my-0 max-w-[1440px] px-4 py-4;
+ }
+}
