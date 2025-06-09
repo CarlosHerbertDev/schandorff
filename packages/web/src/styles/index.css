@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+@theme {
+   --color-primary: #fff;
+   --color--secondary: #0A1224;
+   --color-tertiary: #F5F5F5;
+
+}
 
 @layer base {
  body {
